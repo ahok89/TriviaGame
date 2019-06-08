@@ -60,5 +60,27 @@ var questions = ( {
     correctAnswers: "Friendship"
 } 
 
+$(".q0").text(questions.question);
+$(".q0").text(questions.question);
+$(".q1").text(questions.question);
+$(".q1").text(questions.question);
+$(".q2").text(questions.question);
+$(".q2").text(questions.question);
+$(".q2").text(questions.question);
+$(".q3").text(questions.question);
+$(".q3").text(questions.question);
+$(".q4").text(questions.question);
+$(".q4").text(questions.question);
+$(".q5").text(questions.question);
+$(".q5").text(questions.question);
+$(".q6").text(questions.question);
+$(".q6").text(questions.question);
+$(".q7").text(questions.question);
+$(".q7").text(questions.question);
+$(".q8").text(questions.question);
+$(".q8").text(questions.question);
+$(".q9").text(questions.question);
+$(".q9").text(questions.question);
+
 
 
