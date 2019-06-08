@@ -10,7 +10,6 @@ function decrement() {
     }
 }
 
-
 function run() {
     intervalId = setInterval(decrement, 1000);
 }
@@ -18,7 +17,8 @@ function run() {
 function decrement() {
 }
 
-var questions = {
+
+var questions = ( {
     question: "Which Digidestined is revealed as the Eighth Child?",
     answers: ["Kairi", "Tai" , "T.K." , "Willis"]
     correctAnswer: "Kairi"
@@ -58,7 +58,7 @@ var questions = {
     question: "What crest does Matt bear?"
     answers: ["Friendship", "Sincerity", "Light", "Reliability"]
     correctAnswers: "Friendship"
-}
+} 
 
-$("sub-wrapper").prepend("<h2> Time Remaining: <span id='timer'>60</span Seconds<s/h2>");
+
 
